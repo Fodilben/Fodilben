@@ -55,4 +55,4 @@ If you are looking for a remote developer who can manage product discovery, buil
 
 * 🌐 **Portfolio:** [foudil-benhadjer.netlify.app](https://foudil-benhadjer.netlify.app/)
 * 💼 **LinkedIn:** [linkedin.com/in/foudhil-benhadjer-a3a734283](https://www.linkedin.com/in/foudhil-benhadjer-a3a734283/)
-* 📫 **Email:** [f.benhadjer@univ-boumerdes.dz](mailto:f.benhadjer@univ-boumerdes.dz) _(Note: Replace with your actual preferred email address)_
+* 📫 **Email:** [f.benhadjer@univ-boumerdes.dz](mailto:f.benhadjer@univ-boumerdes.dz)
